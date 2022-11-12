@@ -9,4 +9,11 @@ Output-
 
 Approach-
 
+Since, HTML provides the basic structure of sites, which is enhanced and modified by other technologies like CSS and JavaScript,
+and CSS is used to control presentation, formatting, and layout,
+and JavaScript is used to control the behavior of different elements.
 
+So, i first make html files for structure and make home page and editor page for editing the blog and blog page and and then css files for formatting and then javascript files for controlling the behaviorof different elements.
+
+Through classes i make every element and the link the css files and html file with link tag in html.
+And i use Firebase to store the data of the blogs.
